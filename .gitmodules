@@ -7,3 +7,7 @@
 	path = mapSpain
 	url = https://github.com/ropenspain/mapspain
 	shallow = true
+[submodule "spanish"]
+	path = spanish
+	url = https://github.com/rOpenSpain/spanish
+	shallow = true
