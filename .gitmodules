@@ -3,6 +3,10 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "climaemet"]
+	path = climaemet
+	url = https://github.com/rOpenSpain/climaemet
+	shallow = true
 [submodule "mapSpain"]
 	path = mapSpain
 	url = https://github.com/ropenspain/mapspain
