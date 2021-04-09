@@ -15,3 +15,7 @@
 	path = spanish
 	url = https://github.com/rOpenSpain/spanish
 	shallow = true
+[submodule "tidyBdE"]
+	path = tidyBdE
+	url = https://github.com/ropenspain/tidybde
+	shallow = true
