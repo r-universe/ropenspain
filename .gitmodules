@@ -7,15 +7,19 @@
 	path = climaemet
 	url = https://github.com/rOpenSpain/climaemet
 	shallow = true
+	registered = true
 [submodule "mapSpain"]
 	path = mapSpain
 	url = https://github.com/ropenspain/mapspain
 	shallow = true
+	registered = true
 [submodule "spanish"]
 	path = spanish
 	url = https://github.com/rOpenSpain/spanish
 	shallow = true
+	registered = true
 [submodule "tidyBdE"]
 	path = tidyBdE
 	url = https://github.com/ropenspain/tidybde
 	shallow = true
+	registered = true
