@@ -1,0 +1,18 @@
+[
+  {
+    "package": "climaemet",
+    "oncran": false
+  },
+  {
+    "package": "mapSpain",
+    "oncran": true
+  },
+  {
+    "package": "spanish",
+    "oncran": false
+  },
+  {
+    "package": "tidyBdE",
+    "oncran": true
+  }
+]
