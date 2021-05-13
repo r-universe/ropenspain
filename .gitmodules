@@ -8,18 +8,22 @@
 	url = https://github.com/rOpenSpain/climaemet
 	shallow = true
 	registered = true
+	oncran = false
 [submodule "mapSpain"]
 	path = mapSpain
 	url = https://github.com/ropenspain/mapspain
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "spanish"]
 	path = spanish
 	url = https://github.com/rOpenSpain/spanish
 	shallow = true
 	registered = true
+	oncran = false
 [submodule "tidyBdE"]
 	path = tidyBdE
 	url = https://github.com/ropenspain/tidybde
 	shallow = true
 	registered = true
+	oncran = true
