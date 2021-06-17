@@ -4,15 +4,53 @@
     "oncran": false
   },
   {
+    "package": "tidyBdE",
+    "oncran": true
+  },
+  {
+    "package": "rostemplate"
+  },
+  {
     "package": "mapSpain",
     "oncran": true
+  },
+  {
+    "package": "MorbiditySpainR"
+  },
+  {
+    "package": "senadoRES"
+  },
+  {
+    "package": "LAU2boundaries4spain"
+  },
+  {
+    "package": "airqualityES",
+    "oncran": false
+  },
+  {
+    "package": "BOE"
   },
   {
     "package": "spanish",
     "oncran": false
   },
   {
-    "package": "tidyBdE",
-    "oncran": true
+    "package": "istacbaser"
+  },
+  {
+    "package": "caRtociudad"
+  },
+  {
+    "package": "Siane"
+  },
+  {
+    "package": "MicroDatosEs",
+    "oncran": false
+  },
+  {
+    "package": "CatastRo"
+  },
+  {
+    "package": "opendataes"
   }
 ]
