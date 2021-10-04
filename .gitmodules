@@ -33,6 +33,11 @@
 	url = https://github.com/rOpenSpain/senadoRES
 	shallow = true
 	registered = true
+[submodule "LAU2boundaries4spain"]
+	path = LAU2boundaries4spain
+	url = https://github.com/rOpenSpain/LAU2boundaries4spain
+	shallow = true
+	registered = true
 [submodule "airqualityES"]
 	path = airqualityES
 	url = https://github.com/rOpenSpain/airqualityES
