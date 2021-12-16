@@ -4,6 +4,9 @@
     "oncran": true
   },
   {
+    "package": "infoelectoral"
+  },
+  {
     "package": "tidyBdE",
     "oncran": true
   },
