@@ -51,7 +51,8 @@
     "oncran": false
   },
   {
-    "package": "CatastRo"
+    "package": "CatastRo",
+    "oncran": false
   },
   {
     "package": "opendataes"
