@@ -52,7 +52,7 @@
   },
   {
     "package": "CatastRo",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "opendataes"
