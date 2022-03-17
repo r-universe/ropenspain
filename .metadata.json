@@ -55,6 +55,9 @@
     "oncran": true
   },
   {
+    "package": "CatastRoNav"
+  },
+  {
     "package": "opendataes"
   }
 ]

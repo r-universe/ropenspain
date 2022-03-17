@@ -83,6 +83,11 @@
 	url = https://github.com/rOpenSpain/CatastRo
 	shallow = true
 	registered = true
+[submodule "CatastRoNav"]
+	path = CatastRoNav
+	url = https://github.com/rOpenSpain/CatastRoNav
+	shallow = true
+	registered = true
 [submodule "opendataes"]
 	path = opendataes
 	url = https://github.com/rOpenSpain/opendataes
