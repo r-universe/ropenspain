@@ -8,11 +8,6 @@
 	url = https://github.com/rOpenSpain/climaemet
 	shallow = true
 	registered = true
-[submodule "INEbaseR"]
-	path = INEbaseR
-	url = https://github.com/rOpenSpain/INEbaseR
-	shallow = true
-	registered = true
 [submodule "infoelectoral"]
 	path = infoelectoral
 	url = https://github.com/rOpenSpain/infoelectoral
