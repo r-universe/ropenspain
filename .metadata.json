@@ -4,6 +4,9 @@
     "oncran": true
   },
   {
+    "package": "INEbaseR"
+  },
+  {
     "package": "infoelectoral"
   },
   {
@@ -22,9 +25,6 @@
   },
   {
     "package": "senadoRES"
-  },
-  {
-    "package": "LAU2boundaries4spain"
   },
   {
     "package": "airqualityES",
