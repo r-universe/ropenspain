@@ -58,6 +58,11 @@
 	url = https://github.com/rOpenSpain/istacbaser
 	shallow = true
 	registered = true
+[submodule "istacr"]
+	path = istacr
+	url = https://github.com/rOpenSpain/istacr
+	shallow = true
+	registered = true
 [submodule "caRtociudad"]
 	path = caRtociudad
 	url = https://github.com/rOpenSpain/caRtociudad
