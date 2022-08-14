@@ -38,8 +38,7 @@
     "package": "istacbaser"
   },
   {
-    "package": "istacr",
-    "oncran": false
+    "package": "istacr"
   },
   {
     "package": "caRtociudad"
