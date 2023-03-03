@@ -18,6 +18,11 @@
 	url = https://github.com/rOpenSpain/tidyBdE
 	shallow = true
 	registered = true
+[submodule "enseRes"]
+	path = enseRes
+	url = https://github.com/rOpenSpain/enseRes
+	shallow = true
+	registered = true
 [submodule "rostemplate"]
 	path = rostemplate
 	url = https://github.com/rOpenSpain/rostemplate

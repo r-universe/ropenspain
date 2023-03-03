@@ -11,6 +11,9 @@
     "oncran": true
   },
   {
+    "package": "enseRes"
+  },
+  {
     "package": "rostemplate"
   },
   {
