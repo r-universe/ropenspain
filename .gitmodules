@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/ropenspain/universe
+	url = https://github.com/ropenspain/ropenspain.r-universe.dev
 	shallow = true
 	branch = HEAD
 [submodule "climaemet"]
