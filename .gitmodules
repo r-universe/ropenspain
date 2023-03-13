@@ -13,6 +13,16 @@
 	url = https://github.com/rOpenSpain/infoelectoral
 	shallow = true
 	registered = true
+[submodule "INEbaseR"]
+	path = INEbaseR
+	url = https://github.com/rOpenSpain/INEbaseR
+	shallow = true
+	registered = true
+[submodule "LAU2boundaries4spain"]
+	path = LAU2boundaries4spain
+	url = https://github.com/rOpenSpain/LAU2boundaries4spain
+	shallow = true
+	registered = true
 [submodule "tidyBdE"]
 	path = tidyBdE
 	url = https://github.com/rOpenSpain/tidyBdE

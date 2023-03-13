@@ -7,6 +7,12 @@
     "package": "infoelectoral"
   },
   {
+    "package": "INEbaseR"
+  },
+  {
+    "package": "LAU2boundaries4spain"
+  },
+  {
     "package": "tidyBdE",
     "oncran": true
   },
