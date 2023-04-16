@@ -8,6 +8,11 @@
 	url = https://github.com/rOpenSpain/climaemet
 	shallow = true
 	registered = true
+[submodule "comidistar"]
+	path = comidistar
+	url = https://github.com/rOpenSpain/comidistar
+	shallow = true
+	registered = true
 [submodule "infoelectoral"]
 	path = infoelectoral
 	url = https://github.com/rOpenSpain/infoelectoral
