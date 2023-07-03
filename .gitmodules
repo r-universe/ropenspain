@@ -1,115 +1,70 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/ropenspain/ropenspain.r-universe.dev
-	shallow = true
 	branch = HEAD
 [submodule "climaemet"]
 	path = climaemet
 	url = https://github.com/rOpenSpain/climaemet
-	shallow = true
-	registered = true
 [submodule "comidistar"]
 	path = comidistar
 	url = https://github.com/rOpenSpain/comidistar
-	shallow = true
-	registered = true
 [submodule "infoelectoral"]
 	path = infoelectoral
 	url = https://github.com/rOpenSpain/infoelectoral
-	shallow = true
-	registered = true
 [submodule "INEbaseR"]
 	path = INEbaseR
 	url = https://github.com/rOpenSpain/INEbaseR
-	shallow = true
-	registered = true
 [submodule "LAU2boundaries4spain"]
 	path = LAU2boundaries4spain
 	url = https://github.com/rOpenSpain/LAU2boundaries4spain
-	shallow = true
-	registered = true
 [submodule "tidyBdE"]
 	path = tidyBdE
 	url = https://github.com/rOpenSpain/tidyBdE
-	shallow = true
-	registered = true
 [submodule "enseResp"]
 	path = enseResp
 	url = https://github.com/rOpenSpain/enseResp
-	shallow = true
-	registered = true
 [submodule "rostemplate"]
 	path = rostemplate
 	url = https://github.com/rOpenSpain/rostemplate
-	shallow = true
-	registered = true
 [submodule "mapSpain"]
 	path = mapSpain
 	url = https://github.com/rOpenSpain/mapSpain
-	shallow = true
-	registered = true
 [submodule "MorbiditySpainR"]
 	path = MorbiditySpainR
 	url = https://github.com/rOpenSpain/MorbiditySpainR
-	shallow = true
-	registered = true
 [submodule "senadoRES"]
 	path = senadoRES
 	url = https://github.com/rOpenSpain/senadoRES
-	shallow = true
-	registered = true
 [submodule "airqualityES"]
 	path = airqualityES
 	url = https://github.com/rOpenSpain/airqualityES
-	shallow = true
-	registered = true
 [submodule "BOE"]
 	path = BOE
 	url = https://github.com/rOpenSpain/BOE
-	shallow = true
-	registered = true
 [submodule "spanish"]
 	path = spanish
 	url = https://github.com/rOpenSpain/spanish
-	shallow = true
-	registered = true
 [submodule "istacbaser"]
 	path = istacbaser
 	url = https://github.com/rOpenSpain/istacbaser
-	shallow = true
-	registered = true
 [submodule "istacr"]
 	path = istacr
 	url = https://github.com/rOpenSpain/istacr
-	shallow = true
-	registered = true
 [submodule "caRtociudad"]
 	path = caRtociudad
 	url = https://github.com/rOpenSpain/caRtociudad
-	shallow = true
-	registered = true
 [submodule "Siane"]
 	path = Siane
 	url = https://github.com/rOpenSpain/Siane
-	shallow = true
-	registered = true
 [submodule "MicroDatosEs"]
 	path = MicroDatosEs
 	url = https://github.com/rOpenSpain/MicroDatosEs
-	shallow = true
-	registered = true
 [submodule "CatastRo"]
 	path = CatastRo
 	url = https://github.com/rOpenSpain/CatastRo
-	shallow = true
-	registered = true
 [submodule "CatastRoNav"]
 	path = CatastRoNav
 	url = https://github.com/rOpenSpain/CatastRoNav
-	shallow = true
-	registered = true
 [submodule "opendataes"]
 	path = opendataes
 	url = https://github.com/rOpenSpain/opendataes
-	shallow = true
-	registered = true
