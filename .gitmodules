@@ -68,3 +68,6 @@
 [submodule "tidyBdE"]
 	path = tidyBdE
 	url = https://github.com/rOpenSpain/tidyBdE
+[submodule "tidycenso"]
+	path = tidycenso
+	url = https://github.com/rOpenSpain/tidycenso
