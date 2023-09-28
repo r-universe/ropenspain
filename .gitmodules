@@ -56,6 +56,9 @@
 [submodule "opendataes"]
 	path = opendataes
 	url = https://github.com/rOpenSpain/opendataes
+[submodule "resios"]
+	path = resios
+	url = https://github.com/rOpenSpain/resios
 [submodule "rostemplate"]
 	path = rostemplate
 	url = https://github.com/rOpenSpain/rostemplate
