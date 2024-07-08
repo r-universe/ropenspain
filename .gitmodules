@@ -8,6 +8,9 @@
 [submodule "CatastRo"]
 	path = CatastRo
 	url = https://github.com/rOpenSpain/CatastRo
+[submodule "CatastRoEus"]
+	path = CatastRoEus
+	url = https://github.com/rOpenSpain/CatastRoEus
 [submodule "CatastRoNav"]
 	path = CatastRoNav
 	url = https://github.com/rOpenSpain/CatastRoNav
