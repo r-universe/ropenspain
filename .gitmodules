@@ -71,6 +71,9 @@
 [submodule "spanish"]
 	path = spanish
 	url = https://github.com/rOpenSpain/spanish
+[submodule "spanishoddata"]
+	path = spanishoddata
+	url = https://github.com/rOpenSpain/spanishoddata
 [submodule "tidyBdE"]
 	path = tidyBdE
 	url = https://github.com/rOpenSpain/tidyBdE
