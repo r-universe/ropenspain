@@ -56,7 +56,6 @@
 [submodule "mapSpain"]
 	path = mapSpain
 	url = https://github.com/rOpenSpain/mapSpain
-	branch = main
 [submodule "opendataes"]
 	path = opendataes
 	url = https://github.com/rOpenSpain/opendataes
